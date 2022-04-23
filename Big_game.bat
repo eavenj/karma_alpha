@@ -1,0 +1,1 @@
+ game --scale=4
