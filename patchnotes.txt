@@ -1,0 +1,124 @@
+0.8
+ajout:
+scénario jusqu'à la 8ème arène incluse
+parler au Pokémon suiveur
+lignées de Virevorreur et Gambex obtensibles
+sous-évolution et méga-évolution de Lokhlass
+méga-évolution de Fouinar
+méga-evolution de Cryptéro
+combattre Alea à Relizsaëf
+rencontrer Ibuki à la Ville Suspendue
+remapping de la Montagne du Devoir
+remapping de la Route 4
+remapping de Vinyl
+remapping de la Route 11
+remapping de l'arène type Eau
+remapping du Temple des Abysses
+remapping du Camp Victoire
+intérieurs de Vinyl
+davantage de PNJ à Relizsaëf, Flakau et Vinyl
+graphiques:
+refonte de l'UI de Carte Dresseur
+refonte légère de la worldmap
+vision des formes dans le Pokédex
+sprite de Géolithe d'Équibris
+overworld de Carmache d'Équibris
+implémentation du nouveau logo
+metagame:
+le statut Pétrification est ajouté
+la Neige remplace la Grêle
+rework de Empal'Korne, Feu d'Enfer, Glaciation, Saumure, Frénésie, Lumiattirance, Don Naturel, Puissance Cachée, Bang Sonique, Torrent d'Coups, Armumagma, Griffe Dure
+attaque Picanon passe type Eau
+attaque Aéroblast devient Physique
+attaques Bomb'Oeuf et Pilonnage deviennent Special
+attaques Charme et Séducation baissent de trois niveaux si l'ennemi est du sexe opposé
+ajout des talents Ailes Glaçantes, Peau Psychique, Cata-Neige et Cécité
+ajout des attaques Hydrovapeur, Lame Lumière, Glachariot, Percée, Croque-Roc, Balle Braise, Tournijoyau, Double Diable, Trauma-Claque, Déluge Toxik, Patatrappe, Poing Etoiles, Incandé-Feuilles, Pétal-Explosion, Atomagie Noire, Centripétacle, Tourbi-Grêle, Ondes Mondiales...
+plus de détails dans le patchnotes dédié
+niveaux des Champions 5/6/7 revus à la baisse
+changement de la méthode d'EXP
+talent de Révolucrok fonctionnel
+plus possible d'apprendre les breeding moves par move reminder
+rééquilibrage des groupes sauvages
+Cascade donné par Ibuki à Eindo plutôt que par Gaoto à Flakau
+divers:
+passage à Tiled
+utiliser plusieurs objets du genre Protéine ou Super Bonbon à la fois
+amélioration de l'IA sur certains aspects
+pokés dresseurs ne peuvent plus être shiny
+0.7.4
+bug fixing:
+bug ponts Route 18
+plusieurs bugs tileset (parasol, panneau Route 19, etc)
+divers:
+espèce de Balbalèze correctement affichée
+textes CT corrigés
+0.7.3
+bug fixing:
+softlock combat final Ellza
+ajout de contenu:
+map Temple Equilibre
+metagame:
+attaques Triple Pied et Triple Axel maintenant fonctionnelles
+divers:
+correction dialogues
+0.7.2
+bug fixing:
+courbe d'exp de Ixon et Farfurex
+Vol plus possible sous l'eau
+crash à cause de quelqu'un qui fait trop vite ses events
+crash de Ball'Météo (bug PSDK)
+ajout de contenu:
+Ecrémeuh, Ptyranidur et Solochi obtensibles
+plusieurs maps de plongée ajoutées
+Pokémon fuyards ajoutés
+metagame:
+attaques Branchicrok et Prise de Bec maintenant fonctionnelles (et nerfées)
+attaque Esprit Frappeur maintenant fonctionnelle
+attaque Big Splash maintenant fonctionnelle
+attaque Fontaine de Vie maintenant fonctionnelle
+attaques Ball'Météo, Champlification maintenant fonctionnelle
+attaques Monte-Tension, Vaste Pouvoir, Explo-Brume, Gliss'Herbe maintenant fonctionnelles
+attaque Métalliroue maintenant fonctionnelle
+divers:
+optimisation maplink
+correction dialogues
+0.7.1
+metagame:
+attaques Partage Garde et Partage Force sont maintenant fonctionnelles
+attaques Détrempage et Poudre Magique sont maintenant fonctionnelles
+attaque Laser Météore maintenant fonctionnelle
+attaque Dracacophonie maintenant fonctionnelle
+divers:
+panneaux :)
+0.7
+bug fixing:
+Meloetta garde bien sa forme lors de la capture
+bug de collision Carnage Tellurique
+rencontre de Griknot/Carmache trop tôt
+PNJ avec mauvais dialogues (Foret de l'Essor, Route 12)
+ajout de contenu:
+refonte des Routes 7 et 10, Reliszaef et du Volcan Patience (montagne)
+nouveau Pokémon: Arivedetty ajouté
+Ile et Grotte Ramoloss mappées et ajoutées
+Decharge mappée et ajoutée
+CT Plongée obtensible et par conséquent un nouveau badge obtensible lui aussi
+Ile du Désastre mappée et ajoutée (liste complète des zones ajoutées: Route 15-Profondeurs, Temple des Abysses, Zenchou, Route 16, Route 17, Eindo, Route 18, Ruines du Désastre)
+metagame:
+changements de movepool divers
+buff de stats divers
+moves de sommeil (sauf Baillement) ont tous -1 de priorité. en échange, le plus bas est 70% de précision
+rework de Dévorêve, ajout en CT
+rework de Synchropeine
+rework de Conversion
+rework de l'effet Piège de Roc
+rework de Agitation
+Gel est remplacé par la Gelure
+ajout de Cage-Glaciale, ajout en CT
+attaques Couvre-Lave et Couvre-Givre sont maintenant fonctionnelles
+attaque Arrogance est maintenant fonctionnelle
+les types Electric peuvent être paralysés par des attaques non-Electric (Plaquage, Para-Spore, Dracossouffle, Tourbillage etc)
+divers:
+refonte des succès
+généralement meilleure IA
+choix du Pokémon avec le name rater/move reminder
