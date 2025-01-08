@@ -1,8 +1,15 @@
 0.8.3
 ajout:
+jonction Route 7/Route 9
+nouvelle grotte Route 11
 remapping d'Ifécho
 metagame:
 amélioration des movesets de Zettai
+ajout de l'attaque Dépression
+ajout du talent Abdomoteur
+ajout du Patch Talent
+bug fixing:
+event-making Temple des Rêves
 0.8.2
 metagame:
 distribution de Cage-Glaciale et Cryo-Pirouette
