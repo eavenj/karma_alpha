@@ -1,3 +1,11 @@
+0.8.5
+ajout:
+event-making Forêt Carmin
+metagame:
+nerf champions (330 => 300, 360 => 320)
+bug fixing:
+crash Suc Digestif
+proc arène des Abysses
 0.8.4
 ajout:
 intérieurs Ifécho
@@ -79,7 +87,7 @@ attaques Charme et Séducation baissent de trois niveaux si l'ennemi est du sexe 
 ajout des talents Ailes Glaçantes, Peau Psychique, Cata-Neige et Cécité
 ajout des attaques Hydrovapeur, Lame Lumière, Glachariot, Percée, Croque-Roc, Balle Braise, Tournijoyau, Double Diable, Trauma-Claque, Déluge Toxik, Patatrappe, Poing Etoiles, Incandé-Feuilles, Pétal-Explosion, Atomagie Noire, Centripétacle, Tourbi-Grêle, Ondes Mondiales...
 plus de détails dans le patchnotes dédié
-niveaux des Champions 5/6/7 revus à la baisse
+nerf 6ème badge et Ellza
 changement de la méthode d'EXP
 talent de Révolucrok fonctionnel
 plus possible d'apprendre les breeding moves par move reminder
