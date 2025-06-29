@@ -1,3 +1,29 @@
+0.9
+ajout:
+Route Victoire
+cinématique d'introduction
+event-making Bassin Minier et Camp Minier
+davantage de PNJ à Ifécho
+graphiques:
+transition Fondation Crépuscule
+sprite Démanta Equibris
+sprite vélo Cathlin et autre
+icon et OW Mistigrix femelle
+nouveaux OW dresseurs (KyleDove goat)
+metagame:
+Plongée obtensible Ville Suspendue
+arène eau et arène dragon: teams L45 si moins de 5 Badges
+Éoko chope Miroi-Tir (waw)
+fossiles davantage viables
+bug fixing:
+capture Porygon2
+ressources Gardevoir
+softlock Bassin Minier
+combat duo Route 11
+défaite contre Shinra Ifécho
+TP Ibuki Ville Suspendue
+softlock bateau
+oeufs Route 2
 0.8.7
 ajout:
 mapping Route Secrète
