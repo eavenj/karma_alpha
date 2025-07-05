@@ -1,3 +1,16 @@
+0.9.1
+ajout:
+Cavités Sombres (Route Victoire)
+dialogues dresseurs Route Victoire
+intérieurs Ville Suspendue
+méga-évolution de Dracolosse
+méga-évolution de Luxray
+méga-évolution de Libégon
+bug fixing:
+marin du Désert Embrasé (Route Victoire)
+softlock Marais Toxique (Route Victoire)
+movepool Terraiste
+void visible Ring Victoire
 0.9
 ajout:
 Route Victoire
@@ -8,7 +21,6 @@ graphiques:
 transition Fondation Crépuscule
 sprite Démanta Equibris
 sprite vélo Cathlin et autre
-icon et OW Mistigrix femelle
 nouveaux OW dresseurs (KyleDove goat)
 metagame:
 Plongée obtensible Ville Suspendue
@@ -17,7 +29,7 @@ arène eau et arène dragon: teams L45 si moins de 5 Badges
 fossiles davantage viables
 bug fixing:
 capture Porygon2
-ressources Gardevoir
+ressources Gardevoir et Mistigrix
 softlock Bassin Minier
 combat duo Route 11
 défaite contre Shinra Ifécho
