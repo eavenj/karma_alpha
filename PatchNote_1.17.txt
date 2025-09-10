@@ -1,0 +1,50 @@
+Jeu traduit entièrement en Anglais
+
+Contenu :
+- Altiflor maintenant obtensible!
+- Liste des Habitats dans le Pokédex!
+- Système des broyeurs de tessons
+- Ajout de la Poudre Colorée et la Poudre Dorée
+- Ajout de l'attaque Décapsulage
+- Ajout du talent Dévore-Foudre
+- Cobaltium maintenant obtensible
+
+Bug fatal :
+- Softlock au Volcan Patience en venant de la Forêt Carmin
+
+Bug majeur :
+- Musique de victoire parfois absente en fin de combat
+- Archéduc a le mauvais type
+- Pokémon n'évolue pas si mis KO
+- Rune Purifiante n'a aucun effet
+- Bug de reset du compteur de pas
+- "Aucun objet" donné au lieu de la Scarhinoïte
+- Mauvaises récompenses au Tournoi du Présage
+- Mauvaise CT/DT à certains endroits
+
+Bug mineur :
+- Boite de texte vide parfois montrée en fin de combat
+- Effet sonore du PC trop fort
+- Cri manquant sur Meumeu
+- Mauvaise apparence quand Cathlin pêche en surfant
+- Déclic Tactique s'active en début de tour pour l'IA
+
+Divers :
+- Deux nouvelles poches dans le sac : Matériaux et Trésors
+- Augmentation du taux de sauvages de la Super Canne
+- Maintenant possible de pêcher des Perles ou des Appat Balls
+- Cri du Pokémon se lance en utilisant Vol
+- Rochers Force devraient maintenant s'enfoncer ou au moins agir comme tel
+- Keldeo maintenant niveau 70 au lieu de 50 et requiert Force 
+- Doduo et Dodrio apprennent Double Pied et Triple Pied
+- Farfurex, Révolucrok et Shaofouine apprennent Triple Pied
+- Manternel, Dimoret et Pingoléon apprennent Triple Axel
+- Davantage de Pokémon apprennent Croque-Roc
+- CT Faux-Chage maintenant obtensible auprès du Prof en ayant 50 Pokémon capturés
+- Rééquilibrage Speed Ball, Copain Ball, Scuba Ball, Sombre Ball, Bis Ball, Rapide Ball, Masse Ball
+- Davantage de dialogues pour le Conseil 4
+- Magasins changent lors de l'obtension du 8ème badge
+- Plus de Guérison au Centre Commercial
+- Flying Press a un nouveau fonctionnement
+- Éructation a un nouveau fonctionnement
+- Amélioration (?) de l'IA switch-in (si y a des crash ça viendra de là lol)
