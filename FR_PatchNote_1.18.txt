@@ -1,0 +1,27 @@
+Contenu :
+- Quête secondaire pour obtenir Diancie
+- Extension de la Caverne Intégrité
+- Ajout du Rhodon Imparfait
+- Jungle Souterraine accessible
+
+Bug fatal :
+- Softlock rare Surf + Speedup
+
+Bug majeur :
+- Lien du Destin ne fonctionne pas (bug ajouté en 1.15)
+- Rancune ne fonctionne pas
+- Pas de fanfare d'évolution
+
+Bug mineur :
+- Altiflor invisible quand il nous suit
+- Mauvais fond de combat en pêchant dans une grotte
+- Mauvaise musique d'évolution
+
+Divers :
+- Nouveau design du Drakkarmin de Keltios
+- Anchwatt évolue par magnétisme au lieu du niveau 39
+- Cauchemar peut être posé avant d'endormir
+- Noarfang, Cerbyllin, Sépiatroce et Cryptéro apprennent Cauchemar
+- Les PP ne se soignent plus en fin de combat s'ils sont à 0
+- Correction du shiny de Diancie
+- Possible de capturer l'autre Éon une fois la Route Victoire franchie

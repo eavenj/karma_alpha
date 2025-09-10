@@ -1,0 +1,27 @@
+Content :
+- Sidequest to obtain Diancie
+- Expansion of the Integral Cavern
+- Added the Imperfect Rhode
+- Underground Jungle now available
+
+Fatal error :
+- Rare softlock Surf + Speedup
+
+Major error :
+- Destiny Bond is not working (added in 1.15)
+- Grudge is not working
+- No evolution fanfare
+
+Minor error :
+- Nagaibell is invisible as follower
+- Wrong battle background when fishing in a cave
+- Wrong evolution music
+
+Misc :
+- New design for Druddigon of Keltios
+- Tynamo now evolves from magnetism instead of level 39
+- Nightmare can be used before putting to sleep
+- Noctowl, Wyrdeer, Malamar and Sigilyph now learn Nightmare
+- PP is no longer restored when hitting 0
+- Correction of Diancie's shiny
+- Possible to catch the other Eon once the Victory Road is crossed
