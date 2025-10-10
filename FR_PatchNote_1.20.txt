@@ -1,0 +1,2 @@
+Bug majeur :
+- Le Bloc de Tourbe ne peut être porté, donc Ursaring ne peut évoluer
