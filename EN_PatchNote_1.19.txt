@@ -1,0 +1,15 @@
+Major error :
+- Hisuian Zorua evolves into Unovan Zoroark
+
+Minor error :
+- Roaming Pokémon use the default battle theme
+- Wrong dialog under certain conditions by reinteracting with a trainer in the Fairy-type Gym
+- [~0] displayed when talking to the following Pokémon
+- Arena Trap displays that it "prevents switching" of a wild Pokémon
+- French text displayed in the TR crafting machine menu
+- Buttons with empty text can appear in certain menus
+
+Misc :
+- Further path between Alcost Forest and Route 2
+- Clarification of where to find Ibuki after Flakau
+- Clarification of where the Hidden Grotto to Route 9 is

@@ -1,0 +1,15 @@
+Bug majeur :
+- Zorua de Hisui évolue en Zoroark d'Unys
+
+Bug mineur :
+- Pokémon fuyards utilisent la musique par défaut
+- Mauvais dialogue sous certaines conditions en reparlant à la dresseuse dans l'arène type Fée
+- [~0] affiché en parlant au Pokémon suiveur
+- Piège Sable affiche "empêcher les changements" d'un Pokémon sauvage
+- Texte anglais affiché dans le menu de souvenir des capacités
+- Boutons sans texte peuvent apparaitre dans certains menus
+
+Divers :
+- Liaison en plus entre la Forêt d'Aubor et la Route 2
+- Clarification d'où trouver Ibuki après Flakau
+- Clarification d'où est la Trouée Cachée qui mène à la Route 9
