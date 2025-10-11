@@ -1,2 +1,5 @@
+Fatal error :
+- Crash during AI calculation under certain conditions
+
 Major error :
 - Peat Block cannot be held, so Ursaring cannot evolve

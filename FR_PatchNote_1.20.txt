@@ -1,2 +1,5 @@
+Bug fatal :
+- Crash lors du calcul de l'IA dresseur sous certaines conditions
+
 Bug majeur :
 - Le Bloc de Tourbe ne peut être porté, donc Ursaring ne peut évoluer
