@@ -1,0 +1,14 @@
+Fatal error :
+- Hardlock by talking to the trainer on Route 19 from the left while having less than 8 badges
+
+Minor error :
+- Wrong item description on the Beer, the Stupid Pink Coin, the Equilibrium Key, the Fairy Feather, the Leader's Crest, the Booster Energy, the Colorful Powder, the Mini TV, the Dunce Cap, the Blank Plate and the Golden Powder
+
+Misc :
+- Scyther and Equibrian Staryu evolve with item+level
+- Snorunt evolves into Glalie by Dawn Stone + male
+- Glalie is now 100% male
+- Delibird learns Icy Wind L15, Drill Peck L19, Glachariot L23
+- Delibird now evolves with the move Glachariot
+- Insanibird is back to 70 base HP and 106 base Speed
+- Insanibird learns at level 50 Aeroblast instead of Glachariot

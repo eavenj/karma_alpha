@@ -1,0 +1,11 @@
+Bug fatal :
+- Hardlock en parlant au dresseur Route 19 par la gauche en ayant moins que 8 badges
+
+Divers :
+- Stari d'Équibris et Insécateur évoluent par objet+niveau
+- Stalgamin évolue en Oniglali par Pierre Aube + mâle
+- Oniglali est maintenant 100% mâle
+- Cadoizo apprend Vent Glace N15, Bec Vrille N19, Glachariot N23
+- Cadoizo évolue maintenant avec l'attaque Glachariot
+- Colizzo repasse à 70 de base PV et 106 de base Vitesse
+- Colizzo apprend au niveau 50 Aéroblast à la place de Glachariot
