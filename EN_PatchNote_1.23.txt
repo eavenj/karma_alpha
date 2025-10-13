@@ -1,0 +1,16 @@
+Content :
+- Added nature mints
+- Added Exp Candies
+
+Major error :
+- Second eon battled was wrong (twice the same)
+- Egg hatching state inverted on the team menu
+
+Minor error :
+- Aegislash has no backsprite of its Blade form
+- Wrong position on the worldmap in the Dream Temple
+- Lava Block + warp to the Volcano from Route 7
+
+Misc :
+- The Department Store no longer sells Incense
+- The Department Store no longer sells Full Restores

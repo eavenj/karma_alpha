@@ -1,0 +1,16 @@
+Contenu :
+- Ajout des Aromates (changement de nature)
+- Ajout des Bonbons Exp
+
+Bug majeur :
+- Deuxième éon combattu était inversé (deux fois le même)
+- État d'avancement des oeufs dans le menu était inversé
+
+Bug mineur :
+- Exagide n'a pas de backsprite de sa forme Assaut
+- Mauvaise position sur la carte du monde au Temple des Rêves
+- Couvre-Lave + warp au Volcan depuis la Route 7
+
+Divers :
+- Le Centre Commercial ne vend plus d'encens
+- Le Centre Commercial ne vend plus de Guérison
