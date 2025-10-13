@@ -1,0 +1,30 @@
+Contenu :
+- Vol-Esprit maintenant fonctionnel
+
+Bug fatal :
+- Crash en présentant un Oeuf au souvenir de capacités
+
+Bug majeur :
+- Bouton formes dans le Pokédex pas fonctionnel
+- Habitat des formes confondus dans le Pokédex
+- Vol-Force ne baisse pas l'Attaque
+- PV et niveau d'un Oeuf affichés dans le menu de l'équipe
+- Les oeufs peuvent gagner de l'XP (mdr)
+- Hannah ne donne pas d'indice sur la 8ème arène si on l'esquive Route 7
+
+Bug mineur :
+- Les oeufs ne sont pas alignés dans le résumé
+- Zone non définie avant de sortir dehors la première fois
+- Superposition des escaliers à Relizsaëf
+
+Divers :
+- Couleur des zones sur la carte du monde davantage visible (blanc et clignote)
+- Icone du joueur sur la carte du monde
+- État d'avancement de l'oeuf affiché dans le menu de l'équipe
+- Balle Graine et Balle Braise ont une nouvelle mécanique
+- Géolithe (régional) apprend au niveau 41 Vol-Esprit à la place de Boost
+- Tutafeh apprend Vol-Esprit au niveau 53, Tutankafer et Tutétékri au niveau 65
+- Tutankafer apprend Tacle Lourd lors de l'évolution
+- Tutétékri apprend Trépignement lors de l'évolution
+- Funécire passe de 60-30/63-71/63-24 à 60-30/65-65/65-26 (311 BST)
+- Mélancolux passe de 63-50/68-101/68-66 à 62-50/69-95/69-55 (400 BST)

@@ -1,0 +1,30 @@
+Content :
+- Spirit Sap now functional
+
+Fatal error :
+- Crash when showing an Egg to the Move Reminder
+
+Major error :
+- Forms button in the Pokédex does not work
+- Forms habitat confused in the Pokédex
+- Strength Sap does not lower Attack
+- HP and level of an Egg shown in the team menu
+- Eggs can receive EXP (lol)
+- Hannah does not give any hint on the 8th gym if she's avoided on Route 7
+
+Minor error :
+- Eggs not aligned in the summary screen
+- Undefined zone before stepping outside for the first time
+- Stairs overlap in Urifunnlia
+
+Misc :
+- Zone color on the worldmap is better visible (white and flashes)
+- Player icon on the worldmap
+- Egg hatching state shown in the team menu
+- Bullet Seed and Bullet Blaze has a new mechanic
+- (regional) Boldore learns at level 41 Spirit Sap instead of Psych Up
+- Yamask learns Spirit Sap at level 53, Cofagrigus and Runerigus at level 65
+- Cofagrigus learns Heavy Slam on evolution
+- Runerigus learns Stomping Tantrum on evolution
+- Litwick goes from 60-30/63-71/63-24 to 60-30/65-65/65-26 (311 BST)
+- Lampent goes from 63-50/68-101/68-66 to 62-50/69-95/69-55 (400 BST)
