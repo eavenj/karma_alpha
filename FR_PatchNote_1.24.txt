@@ -1,0 +1,6 @@
+Bug majeur :
+- Évoli ne peut pas évoluer en Nymphali le jour ou la nuit (seulement entre-deux)
+- Void visible depuis la Décharge
+
+Bug mineur :
+- Faute d'ortho dans un dialogue de Lochi, de Lucra, et du maitre.

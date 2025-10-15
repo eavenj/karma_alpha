@@ -1,0 +1,3 @@
+Major error :
+- Eevee cannot evolve into Sylveon at day or night (only in-between)
+- Visible void from the Landfill
