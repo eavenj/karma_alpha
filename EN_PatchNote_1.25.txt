@@ -1,0 +1,20 @@
+Content :
+- Anti-EV berries now available
+
+Fatal error :
+- Softlock by going all the way around Sankt City and fight Ibuki, then going all the way around River Camp and encounter Myriana
+
+Major error :
+- Possible to avoid obtaining the Fly TM forever
+- Babiri berries do not appear in Firia City
+
+Minor error :
+- Trainer transition not always reset after Scarlet Forest
+- Two following Pokémon in Pokémon Centers sometimes
+- Illusory berry tree glitch (please save to apply the correction)
+
+Misc :
+- Elite 4 trainers now have specific and complete sets
+- Aromatisse reaches 129 Special Attack (+30)
+- Whiscash reaches 98 Attack (+20)
+- TM/TR movepools partially filled up

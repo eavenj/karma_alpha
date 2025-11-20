@@ -1,0 +1,20 @@
+Contenu :
+- Baies anti-EV maintenant obtensibles
+
+Bug fatal :
+- Softlock en fesant le tour de la Ville Suspendue, combattant Ibuki, puis le tour du Camp Rivière, rencontrant Myriana
+
+Bug majeur :
+- Possible d'esquiver à jamais l'obtension de la CT Vol
+- Baies Babiri à Ifécho n'apparaissent pas
+
+Bug mineur :
+- Transition dresseur pas toujours réinitialisée après la Forêt Carmin
+- Deux Pokémon suiveurs dans le Centre Pokémon parfois
+- Bug des arbres à baies illusoires (veuillez sauvegarder pour appliquer la correction)
+
+Divers :
+- Les membres du Conseil des 4 ont maintenant des sets complets
+- Cocotine passe à 129 en Attaque Spéciale (+30)
+- Barbicha passe à 98 en Attaque (+20)
+- Movepools CT/DT partiellement corrigés
