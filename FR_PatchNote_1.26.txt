@@ -1,0 +1,5 @@
+Bug fatal :
+- Crash en mangeant une baie (ajouté en 1.25)
+
+Divers :
+- le Lombre/Ludicolo de Lyana a maintenant une nature fixe

@@ -1,0 +1,5 @@
+Fatal error :
+- Crash when eating a berry (added in 1.25)
+
+Misc :
+- Lyana's Lombre/Ludicolo now has a fixed nature
