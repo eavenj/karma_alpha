@@ -1,0 +1,11 @@
+Bug majeur :
+- Méga-Rafflésia avait les stats de Rafflésia
+
+Bug mineur :
+- Darumacho de Galar avait la mauvaise icone
+- Ramoloss de Galar et ses évos avait une icone décentrée
+
+Divers :
+- Méga-Rafflésia a maintenant Puanteur comme talent
+- Chétiflor Boustiflor Empiflor Altiflor Arcanin Cornèbre Corboss Magirêve Feuiloutan Flamoutan Flotoutan Feunard Crustabri Mélodelfe Nidoran♀ Nidorina Nidoqueen Nidoran♂ Nidorino Nidoking (Tengalice Raichu Grodoudou) Stari Staross Ptitard Têtarte Tartard Tarpaud Dimoclès Exagide Anchwatt Lampéroie Ohmassacre Larvibule Chrysapile Lucanon Floette Florges Doudouvet Farfaduvet (Chlorobule Fragilady Pashmilla) Iguolta ont subis des changements de movepool
+- La valeur Dégommage de certains objets a été changée

@@ -1,0 +1,11 @@
+Major error :
+- Vileplume-Mega had the stats of Vileplume
+
+Minor error :
+- Darmanitan-Galar had the wrong iconsprite
+- Slowpoke-Galar and its evos had an off-centered iconsprite
+
+Misc :
+- Vileplume-Mega now has Stench as its ability
+- Bellsprout Weepinbell Victreebell Nagaibell Arcanine Murkrow Honchkrow Mismagius Simisage Simisear Simipour Ninetales Cloyster Clefable Nidoran♀ Nidorina Nidoqueen Nidoran♂ Nidorino Nidoking (Shiftry Raichu Wigglytuff) Staryu Starmie Poliwag Poliwhirl Poliwrath Politoed Doublade Aegislash Tynamo Eelektrik Eelektross Grubbin Charjabug Vikavolt Floette Florges Cottonee Whimsicott (Petilil Lilligant Cincinno) Heliolisk have received movepool changes
+- Fling value of some items have been changed
