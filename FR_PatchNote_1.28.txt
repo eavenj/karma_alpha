@@ -1,0 +1,9 @@
+Bug fatal :
+- Crash lors d'un KO mutuel
+- Crash lors d'une double activation du talent Anticipation
+
+Bug mineur :
+- Erreur de collision à la Ville Suspendue
+
+Divers :
+- Ajout de la Pierre Glace, la Bél'Écaille et l'Oeuf Chance au Centre Commercial de Vinyl

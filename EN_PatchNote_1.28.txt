@@ -1,0 +1,13 @@
+Bug fatal :
+- Crash lors d'un KO mutuel
+- Crash lors d'une double activation du talent Anticipation
+
+Fatal error :
+- Crash when a double KO occurs
+- Crash when Anticipation appears twice
+
+Minor error :
+- Collision error in Sankt
+
+Misc :
+- Ice Stone, Prism Scale and Lucky Egg added to Silic City's Department Store
