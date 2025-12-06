@@ -1,0 +1,29 @@
+Fatal error :
+- Crash when displaying the ability of the same Pokémon quickly twice in a row
+- Crash when hovering over a mega-evolution in the Pokédex
+- Softlock when fleeing from Cacnea to back into a corner
+- Softlock when encountering Ibuki in Frozoc after encountering her in Route 8
+
+Major error :
+- Weather reset before checking evolution requirements (Cacturne and Goodra unavailable as a result)
+- Possible to get multiple Terrakion
+- Graphical issue in any exterior/interior transition
+
+Minor error :
+- Paldean Wooper has no backsprite no shiny and no overworld
+- Possible to walk on a Rock Climb ledge in Victory Road
+- A single rock in Victory Road has no collision
+- Some item names were untranslated
+
+Misc :
+- Added cacti in Victory Road
+- Latias/Latios no longer give EXP
+- Possible to rematch Meloetta at level 70 if the level 15 one was not caught
+- Makuhita can evolve into "regular" Hariyama on Route 140
+- Cubone can evolve into "regular" Marowak on Route 140
+- Cubone can evolve into Alolan Marowak at night on Disaster Island
+- Koffing evolves into "regular" Weezing on Route 140
+- Snom evolves only at night
+- Riolu requires 220 friendship instead of 250
+- Change/correction in the stats of Great Tusk and Iron Valiant
+- Alea disappears from the lab after the professor was beaten in Zenchou

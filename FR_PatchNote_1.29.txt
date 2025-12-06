@@ -1,0 +1,28 @@
+Bug fatal :
+- Crash en affichant le talent du même Pokémon deux fois à la suite rapidement
+- Crash en survolant une méga-évolution dans le Pokédex
+- Softlock en fuyant contre Cacnéa pour se cogner vers une collision
+- Softlock en rencontrant Ibuki à Gelick après l'avoir rencontrée Route 8
+
+Bug majeur :
+- Météo réinitialisée avant de vérifier les conditions d'évolutions en fin de combat (Cacturne et Muplodocus inobtensibles)
+- Possible d'obtenir plusieurs Terrakium
+- Bug graphique lors de toute transition extérieur/intérieur
+
+Bug mineur :
+- Axoloto de Paldea n'a ni backsprite ni shiny ni overworld
+- Possible de marcher sur la pente à escalade aux Pics Foudre (Route Victoire)
+- Un rocher à la frontière entre le Désert Embrasé et la Forteresse Draconique n'a pas de collision
+
+Divers :
+- Ajout de cactus au Désert Embrasé (Route Victoire)
+- Latias/Latios ne donnent plus d'EXP
+- Possible de recombattre Meloetta au niveau 70 si pas capturé au niveau 15
+- Makuhita évolue en Hariyama "normal" sur la Route 140
+- Osselait évolue en Ossatueur "normal" sur la Route 140
+- Osselait évolue en Ossatueur d'Alola la nuit sur l'île du Désastre
+- Smogo évolue en Smogogo "normal" sur la Route 140
+- Frissonille évolue seulement la nuit
+- Riolu évolue avec 220 de bonheur et non 250
+- Changement/correction des stats de Voiriphort et Gardalame
+- Aléa disparait du labo après avoir battu le prof à Zenchou
