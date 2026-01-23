@@ -1,0 +1,16 @@
+Bug fatal :
+06 - Métronome crash en appelant Coup d'Main (oups je pensais avoir mise la correction)
+26 - Utilisation d'objet depuis le raccourci en combat Duo peut crash
+35 - Impossible de sortir de l'extension du volcan si on a déjà capturé Entei avant la 1.30
+36 - Picots etc crash si utilisé par l'IA dresseur
+
+Bug mineur :
+32 - L'IA dresseur spamme Ténacité/Prévention/Garde Large
+34 - L'IA dresseur spamme Anti-Soin
+
+Divers :
+- Description de Coeur Soin reflète son fonctionnement
+
+(1.30, mais j'avais oublié dans le dernier patchnote)
+- Nouveau fond dans les interfaces telles que le sac
+- Vivaldaim et Ixon pas affichés dans le Pokédex
