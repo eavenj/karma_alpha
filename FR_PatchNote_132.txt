@@ -1,0 +1,10 @@
+Bug fatal :
+37 - Karma-Clash crash quand l'IA réfléchit a envoyer un Pokémon qui possède l'attaque
+
+Bug majeur :
+38 - Frustration a le fonctionnement de Retour
+
+Divers :
+- CT Abri et Rune Protect achetable au Centre Commercial
+- CT Retour et Frustration obtensibles à la Ville Suspendue
+- CT Incandé-Feuilles trouvable à la Forêt Carmin
