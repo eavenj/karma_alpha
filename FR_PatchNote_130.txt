@@ -1,0 +1,101 @@
+Contenu :
+- Rework et affichage de la Jauge de Karma
+- Baie Antique implémentée
+- Cinématique en plus à Vinyl avec Ibuki
+- Cinématique en plus à Zenchou avec le prof
+- Ajout du Nénurrosoir et de la quête des baies
+- Tropius maintenant obtensible
+- Ponyta de Galar maintenant obtensible
+- Sulfura et Suicune maintenant obtensibles
+- Ruines du Désastre maintenant accessibles
+- Extension du Volcan Patience maintenant accessible
+
+Bug fatal :
+05 - Conversion-Z a 1/18 chance de crash
+06 - Métronome crash en appelant Coup d'Main
+
+Bug majeur : 
+01 - Meloetta peut être rencontré une deuxième fois même si on l'a déjà capturé
+02 - La météo reste d'un combat à l'autre
+04 - L'effet Flash persiste après une défaite à la Route Victoire en venant de la Ligue Pokémon
+07 - Aire de Feu etc ne sont pas implémentées
+08 - Un dresseur sur la Route 1 est une baie dans les nouvelles sauvegardes
+10 - Fonctionnement de Engrenage, Fil Toxique, Tisse Ombre, Fouet de Feu, Boule Pollen, Danse Éveil, Sanction Suprême, Botte Sucrette, Sommation, Bec-Canon, Neuf pour Un, Carapiège
+13 - L'IA dresseur ne comprend pas Absorb Eau et autre
+25 - Plume Enchantée ne peut pas être portée (ah bah bravo...)
+31 - Blocage ne bloque que les attaques qui font contact
+33 - Requiem échoue si une cible a l'effet, même si une autre ne l'a pas (+ Anti-Bruit)
+
+Bug mineur :
+12 - Mauvais dialogue au début d'un combat sauvage avec un partenaire (Ibuki, Myriana etc)
+15 - Décalage des dialogues en arrivant au bout de la Route Victoire
+16 - Particule de flaque reste sur le Pokémon suiveur après avoir utilisé Surf
+17 - Le succès de la Porte de la Vérification se lance deux fois
+18 - Un texte vide peut s'afficher en fin de combat dresseur
+19 - Le PNJ sur la Route 6 qui avertit du sens unique n'apparait pas
+20 - Makuhita, Osselait ou Smogo ne sont pas comptés dans le menu des habitats spécifiquement
+21 - Pokémon suiveur disparait avec vélo + pêche
+24 - Texte d'efficacité s'affiche même pour les capacités de catégorie statut
+27 - La graine d'une baie plantée ne s'affiche pas
+28 - "Herbizarre" lors des dégâts de fin de tour des attaques 8G+
+29 - L'IA de début de jeu favorise trop Faux-Chage
+30 - L'IA mongolise pas mal avec Exagide
+- Sorcilence ne peut pas faire d'oeufs
+- Movepool CT de Salarsen
+- Ibuki reste en place au bout du passage vers la Route 9
+- Ibuki reste au Bar Spectral (Eindo) pour toujours
+- Certains Centres Pokémon octroient deux Pokémon suiveurs
+- Certains Centres Pokémon ne font pas transition
+- Un Pokémon KO ne peut pas évoluer par l'expérience qu'il gagne au combat
+- Distribution d'Escalade trop restreinte
+- Pas de backsprite sur Méga-Kangourex
+
+Divers :
+- La différence de niveau a maintenant une influence sur l'expérience gagnée
+- La taille de l'équipe n'a plus d'influence sur l'expérience gagnée par le Pokémon en tête d'équipe
+- Buff de Puanteur à 30%
+- Ergonomie du Tournoi du Présage (choix d'avoir le choix)
+- Ordre des Pokémon des dresseurs du Tournoi du Présage randomisé
+- Les récompenses du Tournoi du Présage drop tous les 5 combats au lieu de 10 dans le mode Infini
+- Goinfrex et Ronflex sauvages peuvent tenir les Restes (1% et 10% respectivement)
+- Lyana ne reste plus dans la forêt après l'évaluation à Gelick et la réunion à Relizsaëf
+- Message d'efficacité s'affiche maintenant si le Pokémon a été capturé ou l'attaque a déjà été utilisée
+- Bibichut évolue maintenant N22 au lieu de N32
+- Sorcilence apprend maintenant Vampibaiser par Évolution
+- Bargantua a un taux de capture de 75 au lieu de 25 (??)
+- Route de l'Essor considérée comme une zone à part
+- Antre Tout Neuf considéré comme une zone à part
+- Ball'Météo a 150 de puissance sous un climat primaire (oui on peut pas les provoquer, et alors?)
+- Pouvoir Antique a 40% de chance pour chaque stat au lieu de 50% précédemment
+- Terraiste a Suintement en talent 1 à la place de Point Poison
+- La Baie Énigma soigne maintenant 50% au lieu de 25%
+- Huit fois plus de chances de fuir dans la Route Victoire (toujours bas donc)
+- Lyophilisation nerf à 10 PP
+- Ajout d'un succès pour avoir obtenu le Charme Chroma
+- Ajout d'un succès pour la capture de Keldeo
+- Ajout d'un succès pour avoir battu Bouffy au niveau 80
+- Ajout d'un succès pour avoir battu la Gemmologue
+- Max Repousse dure 400 pas au lieu de 250 (descriptions changées)
+- Le contenu des Boutiques est uniformisé selon la progression (nouveau système)
+- Abdomoteur affiche maintenant un message d'activation
+- Routine d'IA pour les moves qui augmentent les stats (Danse-Lames etc)
+- Ajout d'un brouillard aux alentours de l'Ile du Désastre
+- Ajout d'un contour rouge dans la liste des habitats pour les Pokémon capturés
+- Nénupiot apprend Tourniquet au niveau 1
+- Requiem est type Spectre, Regard Noir type Ténèbres, Doux Parfum type Plante
+- Ajout de descriptions pour les lieux manquant une description Pokédex
+- Anticipation affiche maintenant les types en question
+- Les Pokémon des dresseurs ont Nature Sérieux au lieu de Nature Aléatoire
+- Toxi-Claques a 10% de poison par coup au lieu de 5%
+- Ondes Mondiales a 35 de Puissance au lieu de 40
+- Nouveau fonctionnement pour Karma-Clash
+- Amélioration du tile extérieur du Temple des Rêves
+- Amélioration tiles extérieur Ruines du Désastre
+- Buff du niveau des Pokémon sauvages de Flakau et Vinyl
+- Rematch contre Myriana est maintenant un combat Trio
+- Les combats sauvages dans les Cavités Sombres (Route Victoire) sont maintenant un combat Solo
+- Rivalité n'a plus de malus si la cible est de sexe opposé
+- Sachet Senteur peut être acheté au Centre Commercial de Vinyl
+- Colimucus et Muplodocus peuvent apprendre Surf
+- Cochignon et Mammochon peuvent apprendre Cryo-Pirouette
+- Le cri du Pokémon est joué lors d'un échec de capture
