@@ -1,0 +1,18 @@
+Bug fatal :
+39 - Garde Large crash quand l'IA réfléchit
+
+Divers :
+- Direct Toxik est boosté par Poing de Fer
+- Luminocanon est boosté par Lumiattirance (et bloqué par Cécité)
+- Roue de Feu n'est plus boosté par Lumiattirance (ni bloqué par Cécité)
+- Lame de Roc est boosté par Incisif
+- Distribution élargie pour Voile Aurore par niveau (Goupix Alola, Blizzi, Momartik, Hexagel, Amagara)
+- Blizzi évolue maintenant niveau 30 au lieu de 40
+- Latias et Latios apprennent Draco-Énergie au niveau 70
+- Séviper d'Équibris obtient un nouveau movepool
+- CT Abri et Rune Protect achetable au Centre Commercial, pour de vrai cette fois
+- CT30 contient maintenant Gravité au lieu de Contre
+- Joggeur à Amatri donne maintenant CT32 Hâte au lieu de CT01 Faux-Chage
+- CT59 contient maintenant Jackpot au lieu de Mach Punch (DT02 contient maintenant Écho)
+- Gemmologue donne maintenant CT100 Guillotine au lieu de DT58 Queue de Fer
+- Distribution élargie pour Guillotine par CT (Gallame, Clamiral, Crabaraque, Dimoclès, Insécateur, Flingouste, Kabutops)
