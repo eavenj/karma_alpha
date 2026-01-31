@@ -1,0 +1,34 @@
+Contenu :
+- Ajout de l'attaque Anticyclone
+- Ajout d'une quête aux Montagnes du Devoir
+- Ajout de l'attaque Toilettaque
+- Couafarel peut maintenant évoluer
+- Regirock, Regice et Registeel maintenant obtensibles
+- Zarude maintenant obtensible
+- Pyrax et Cresselia maintenant obtensibles
+
+Bug majeur :
+43 - Morphéo ne peut se transformer qu'en forme Pluie
+
+Bug mineur :
+40 - "Les effets de la météo se dissipent !" affiché lorsqu'une météo se dissipe d'elle même
+41 - Vivaldaim et Haydaim ne peuvent pas s'afficher dans le Pokédex
+42 - Vivaldaim peut changer de forme en évoluant
+44 - Charme/Séduction fonctionne même si le lanceur est asexué
+46 - Illusion ne s'affiche pas si le Pokémon tombe KO
+- Prière Lunaire n'affecte pas la Jauge de Karma
+- Les Pokémon 8G et 9G n'ont pas de cris
+
+Divers :
+- Les ailes donnent maintenant +4 EV (au lieu de +8)
+- Toutes les formes de Haydaim sont maintenant obtensibles
+- En fonction de la forme, Haydaim apprend une différente attaque lors de l'évolution
+- Légère refonte de la Jungle Souterraine
+- Couafarel apprend ses attaques plus tôt
+- Couafarel peut être toiletté en Coupe Madame
+- Distribution étendue pour Préparapode par CT (Migalos, Sablaireau, Drascore, Scorvol, Brutapode, Armaldo, Ninjask, Lançargot, Gambex)
+- Autocenter en combat trio si un seul Pokémon restant
+- Sécurité pour esquiver un crash en combat trio (#45)
+- Bec Vrille a un taux de coup critique élevé
+- Le cri se joue quand on utilise une attaque hors combat (Force Surf etc)
+- Le cri se joue quand on parle au Pokémon suiveur
