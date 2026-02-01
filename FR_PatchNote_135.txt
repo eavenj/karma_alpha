@@ -3,6 +3,7 @@ Contenu :
 
 Bug fatal :
 47 - Récuperer une méga-gemme fait crash
+49 - Utiliser un Super Bonbon fait crash
 
 Bug mineur :
 - Mentali et Noctali inversé dans la ligue
