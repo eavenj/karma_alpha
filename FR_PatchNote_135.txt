@@ -1,0 +1,8 @@
+Contenu :
+- Rematch des admins (Lochi et Lucra)
+
+Bug fatal :
+47 - Récuperer une méga-gemme fait crash
+
+Bug mineur :
+- Mentali et Noctali inversé dans la ligue
