@@ -1,0 +1,6 @@
+Bug fatal :
+51 - Le talent de Tokophilo fait crash quand envoyé au combat
+
+Bug majeur :
+50 - Message d'erreur en reparlant au PNJ devant le Hall Électrique
+52 - Seules les musiques par défaut se lancent
