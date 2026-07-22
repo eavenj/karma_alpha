@@ -1,0 +1,65 @@
+Contenu :
+- Ajout des objets originaux suivants: Orbe Froid
+- Ajout des objets officiels suivants: Garde-Talent, Talisman Sain, Dé Pipé, Assurance Échec, Pare-Effet, Cape Obscure, Gant de Boxe, Parapluie Solide, Sac Fuite, Graine Électrik, Graine Brume, Graine Psychique, Graine Herbe, Grosses Bottes, Feuille Copieuse, Pare-Effet, Spray Gorge, Baie Frista, Baie Micle, Baie Chérim
+- Ajout d'un guide au Centre Commercial de Vinyl et réorganisation des comptoirs
+- Iconsprites pour les Méga-Gemmes custom
+
+Bug fatal :
+03 - Riposte/Voile Miroir crash en combat duo si un des Pokémon adverses switch (enfin !!!)
+53 - Parler au personnage suiveur avant le combat du maître fait freeze
+54 - Avoir un oeuf dans l'équipe crash au Panthéon
+55 - Rencontre sauvage dans les escaliers du Temple des Abysses peut softlock
+
+Bug majeur :
+11 - Métronome etc roll deux fois la chance de para/confusion
+22 - PP non dépensés quand l'attaque échoue
+23 - Impossible de lancer une Pokéball en Combat Duo/Trio si notre Pokémon tout à gauche est KO
+56 - Chute Libre n'est pas correctement implémentée
+57 - Rune Protect hérite de Mur Lumière, et autres interactions étranges
+58 - Poing Étoiles utilisait seulement les boosts d'Attaque spéciale au lieu de toute la stat
+63 - Possible d'échanger des Méga-Gemmes ou autres objets protégés avec Tourmagik ou autre
+
+Bug mineur :
+59 - Possible de roll la confusion en étant endormi
+60 - Les types Spectre sont immunisés aux dégâts de Danse-Flammes etc
+61 - Certains talents peuvent être supprimés alors qu'ils devraient pas (Énervement, Déclic Antique, etc), d'autres ne peuvent pas alors qu'ils devraient (Garde Mystik)
+62 - Les dégâts de Baston sont basés sur la stat brute (dépendante du niveau) au lieu de la stat de base (dépendante de l'espèce)
+64 - Mauvaise courbe d'expérience sur de nombreux Pokés 7G
+65 - Éxécu-Son n'a pas son effet
+66 - Choc Psy n'est pas correctement implementée
+
+Divers :
+- Rétroportage de l'IA dresseur de Pokémon Cent Guerres
+
+- Nouvel effet pour la Lune Ball : efficace en fonction de la phase de la lune
+- Nouvel effet pour la Faiblo Ball : efficace en fonction du total de statistiques
+- Nouveau fonctionnement pour la Confusion : maintenant un statut permanent comme la Paralysie
+- Nouveau fonctionnement pour la Poudre Métal et la Poudre Vite : x1.1 en défenses et en vitesse respectivement
+- Nouveau fonctionnement pour le Jus de Baie : soigne autant que le niveau du porteur
+- Nouveau fonctionnement pour les Baies Lingan et Abriko : maintenant s'active peu importe les dégâts reçus
+- Nouveau fonctionnement pour Danse-Flammes etc : les dégâts de fin de tour sont maintenant proportionnels à l'efficacité de l'attaque
+- Nouveau fonctionnement pour Fertilisation, Engrenage, Magné-Contrôle, Garde Florale
+- Nouveau fonctionnement pour Abîme : 100 de Puissance, 50 de Précision, la cible tombe sous-terre jusqu'à la fin du tour
+- Destruction, Caboche-Kaboum, Chloroblast et Métalaser ont maintenant le fonctionnement de Métalaser au lieu de Fracass'Tête
+- Rebond a maintenant l'effet Demi-Tour
+- Boule Élek, Gyroballe, Fléau, Éruption, Essorage, Noeud Herbe ont maintenant des formules linéaires
+- Hommage Posthume échoue désormais si aucun Pokémon allié n'est tombé KO
+- Vengeance peut désormais être boosté au cours du même tour en combat duo
+- Vague Psy buff à x2.0 maximum au lieu de x1.5
+- Draco-Rage a maintenant le fonctionnement de Vague Psy
+- Sonic Boom a maintenant le fonctionnement de Croc Fatal
+- Gyroballe buff à une base de 50 au lieu de 25
+- Baston buff à une base de 10 au lieu de 5
+- Force Ajoutée nerf à 200 maximum au lieu de 960 (lol)
+- Aboiement buff à 60 de Puissance
+- Croc de Mort passe de 85/85%/30% à 80/100%/20%
+- Brume Capiteuse buff à +2 Defense Spéciale
+- Gloutonnerie peut maintenant activer la Baie Oran et la Baie Sitrus dès 75%
+- Fuite permet désormais de toujours pouvoir switcher
+- Sans doute un truc que j'ai oublié
+
+- Mise à jour des descriptions d'objets
+- Rematch des champions donnent des meilleures baies
+- Impossible de marcher dans les herbes sans Pokémon
+- Amélioration de la cinématique d'intro
+- Amélioration de la musique de la Ligue
